@@ -1,4 +1,4 @@
-.vscode/
+.vscode
 app/libs/
 app/pug/bemto
-node_modules/
+node_modules
